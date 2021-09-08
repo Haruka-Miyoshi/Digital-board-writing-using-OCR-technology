@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gwOz9pgkTL1NQK8N9Eq8vwPCF6XfI+FHkr54nztoEBtFAwDXrIyVfdNDiGVLiUurcznatRlQq8v/gkQYlDM9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Haruka\\source\\repos\\OCRTrance\\OCRTrance\\OCRTrance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haruka\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\Haruka\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Haruka\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\Haruka\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
